@@ -6,7 +6,7 @@ December 2020
 
 Goal: Test whether there are genetic differences between males and females with PD... Main reason for testing this is that males are ~1.5x more likely to develop PD. 
 
-Link to DRAFT manuscript [here](https://docs.google.com/document/d/1AlcZ9FPRRhe_CTmTmDpkMJbH0EKRSER46Hrv9nElsAo/edit#)
+Link to manuscript [here](https://www.medrxiv.org/content/10.1101/2021.02.09.21250262v1)
 
 Link to publication here (coming soon)
 
